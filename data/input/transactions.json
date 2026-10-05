@@ -1,0 +1,13 @@
+{"transaction_id":"TXN001","customer_id":"CUST0001","account_id":"ACC0001","amount":5000.00,"currency":"INR","transaction_type":"UPI","merchant":"Amazon","location":"Chennai","timestamp":"2026-09-25T14:00:00","status":"SUCCESS"}
+{"transaction_id":"TXN002","customer_id":"CUST0002","account_id":"ACC0002","amount":15000.00,"currency":"INR","transaction_type":"CARD","merchant":"Flipkart","location":"Bangalore","timestamp":"2026-09-25T14:00:05","status":"SUCCESS"}
+{"transaction_id":"TXN003","customer_id":"CUST0003","account_id":"ACC0003","amount":250000.00,"currency":"INR","transaction_type":"NET_BANKING","merchant":"Amazon","location":"Mumbai","timestamp":"2026-09-25T14:00:10","status":"SUCCESS"}
+{"transaction_id":"TXN004","customer_id":null,"account_id":"ACC0004","amount":7000.00,"currency":"INR","transaction_type":"UPI","merchant":"Swiggy","location":"Chennai","timestamp":"2026-09-25T14:00:15","status":"SUCCESS"}
+{"transaction_id":"TXN005","customer_id":"CUST0005","account_id":"ACC0005","amount":12000.00,"currency":"INR","transaction_type":"INVALID","merchant":"Uber","location":"Delhi","timestamp":"2026-09-25T14:00:20","status":"UNKNOWN"}
+{"transaction_id":"TXN006","customer_id":"CUST0006","account_id":"ACC0006","amount":-5000.00,"currency":"INR","transaction_type":"UPI","merchant":"Amazon","location":"Chennai","timestamp":"2026-09-25T14:00:25","status":"SUCCESS"}
+
+{"transaction_id":"VEL001","customer_id":"CUST0001","account_id":"ACC0001","amount":1000.00,"currency":"INR","transaction_type":"UPI","merchant":"Amazon","location":"Chennai","timestamp":"2026-09-25T15:00:00","status":"SUCCESS"}
+{"transaction_id":"VEL002","customer_id":"CUST0001","account_id":"ACC0001","amount":1200.00,"currency":"INR","transaction_type":"UPI","merchant":"Flipkart","location":"Chennai","timestamp":"2026-09-25T15:00:30","status":"SUCCESS"}
+{"transaction_id":"VEL003","customer_id":"CUST0001","account_id":"ACC0001","amount":800.00,"currency":"INR","transaction_type":"CARD","merchant":"Swiggy","location":"Chennai","timestamp":"2026-09-25T15:01:00","status":"SUCCESS"}
+{"transaction_id":"VEL004","customer_id":"CUST0001","account_id":"ACC0001","amount":1500.00,"currency":"INR","transaction_type":"CARD","merchant":"Zomato","location":"Chennai","timestamp":"2026-09-25T15:01:30","status":"SUCCESS"}
+{"transaction_id":"VEL005","customer_id":"CUST0001","account_id":"ACC0001","amount":700.00,"currency":"INR","transaction_type":"UPI","merchant":"Myntra","location":"Chennai","timestamp":"2026-09-25T15:02:00","status":"SUCCESS"}
+{"transaction_id":"VEL006","customer_id":"CUST0001","account_id":"ACC0001","amount":900.00,"currency":"INR","transaction_type":"UPI","merchant":"Uber","location":"Chennai","timestamp":"2026-09-25T15:02:30","status":"SUCCESS"}

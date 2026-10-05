@@ -1,0 +1,2 @@
+{"transaction_id":"STR004","customer_id":"CUST0004","account_id":"ACC0004","amount":7500.00,"currency":"INR","transaction_type":"UPI","merchant":"Swiggy","location":"Chennai","timestamp":"2026-09-25T17:05:00","status":"SUCCESS"}
+{"transaction_id":"STR005","customer_id":"CUST0005","account_id":"ACC0005","amount":125000.00,"currency":"INR","transaction_type":"CARD","merchant":"Amazon","location":"Delhi","timestamp":"2026-09-25T17:05:10","status":"SUCCESS"}
