@@ -207,4 +207,4 @@ This project was built as a hands-on Data Engineering project to practice real-t
 
 **Ananth M.**
 
-Data Engineer | Python | SQL | PySpark | AWS | Hadoop
+Data Engineer | Python | SQL | PySpark | AWS | Hadoop | Streamlit
